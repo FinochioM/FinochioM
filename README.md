@@ -1,4 +1,4 @@
-### Hi there, I'm Matias, a RPA Tech Lead and Developer based in Buenos Aires, Argentina.
+### Hi there, I'm Matias, an RPA Tech Lead and Developer based in Buenos Aires, Argentina.
 
 :speech_balloon: EN / ES
 
