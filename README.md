@@ -11,4 +11,4 @@
 | <a href="https://github.com/FinochioM/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FinochioM&show_icons=true&count_private=true&theme=dark&hide_border=true&hide_rank=true" alt="FinochioM's github stats" /></a> | <a href="https://github.com/FinochioM/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FinochioM&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=finochiom&title=-Stars,-Commits,-Languages-ma&thme=discord)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=finochiom&title=-Stars,-Commits,-MultiLanguage&theme=discord)](https://github.com/ryo-ma/github-profile-trophy)
