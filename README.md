@@ -1,4 +1,5 @@
 ### Hi there, I'm Matias, an Automation Engineer based in Buenos Aires, Argentina.
+_I enjoy low level programming with languages like Odin, JAI or C_
 
 :speech_balloon: EN / ES
 
